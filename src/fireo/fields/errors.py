@@ -53,3 +53,6 @@ class VectorLengthError(Exception):
 
 class InvalidUpdateModifierError(Exception):
     pass
+
+class ByteLengthError(Exception):
+    pass

@@ -1,6 +1,7 @@
 from fireo.fields.base_field import Field
 from fireo.fields.id_field import IDField
 from fireo.fields.boolean_field import BooleanField
+from fireo.fields.byte_field import ByteField
 from fireo.fields.datetime_field import DateTime
 from fireo.fields.geo_point_field import GeoPoint
 from fireo.fields.list_field import ListField
