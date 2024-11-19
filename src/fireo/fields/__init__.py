@@ -10,4 +10,5 @@ from fireo.fields.nested_model_field import NestedModel, NestedModelField
 from fireo.fields.number_field import NumberField
 from fireo.fields.reference_field import ReferenceField
 from fireo.fields.text_field import TextField
+from fireo.fields.uuid_field import UuidField
 from fireo.fields.vector_field import VectorField

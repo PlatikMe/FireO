@@ -56,3 +56,6 @@ class InvalidUpdateModifierError(Exception):
 
 class ByteLengthError(Exception):
     pass
+
+class InvalidUuidFormat(Exception):
+    pass
