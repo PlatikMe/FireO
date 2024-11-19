@@ -48,3 +48,14 @@ class ValidatorNotCallable(Exception):
 class AttributeMethodNotDefined(Exception):
     pass
 
+class VectorLengthError(Exception):
+    pass
+
+class InvalidUpdateModifierError(Exception):
+    pass
+
+class ByteLengthError(Exception):
+    pass
+
+class InvalidUuidFormat(Exception):
+    pass
