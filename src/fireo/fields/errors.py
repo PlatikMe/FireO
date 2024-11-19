@@ -48,3 +48,8 @@ class ValidatorNotCallable(Exception):
 class AttributeMethodNotDefined(Exception):
     pass
 
+class VectorLengthError(Exception):
+    pass
+
+class InvalidUpdateModifierError(Exception):
+    pass
